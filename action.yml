@@ -1,5 +1,5 @@
-name: 'Publish app to Google App Engine'
-description: 'Publish app to Google App Engine'
+name: 'Fork of Publish app to Google App Engine'
+description: 'Fork of Publish app to Google App Engine'
 author: 'Xiang Zheng'
 inputs:
   service_account_email:
